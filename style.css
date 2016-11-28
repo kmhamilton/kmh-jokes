@@ -1,0 +1,17 @@
+* {
+  font-family: open sans;
+  background-color: #999;
+}
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+.btn {
+  background: #BADA55;
+}
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
